@@ -1,2 +1,2 @@
 # jina-secured-api
-Secured API Server Using HMAC &amp; Diffie-Hellman Algrithm
+Secured API Server Using HMAC &amp; Diffie-Hellman Algrithm & JWT API Authentication
